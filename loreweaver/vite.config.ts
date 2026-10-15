@@ -8,7 +8,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig(() => {
   return {
-    base: '/lore-weaver-web/', // Ensures assets load cleanly on GitHub Pages, subpaths, and static previews
+    base: '/', // Ensures assets load cleanly on GitHub Pages, subpaths, and static previews
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
