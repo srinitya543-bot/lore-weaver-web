@@ -1,0 +1,6 @@
+{
+  "name": "LoreWeaver - AI World-Building & Narrative Knowledge Engine",
+  "description": "Revolutionary knowledge-synthesis and AI narrative companion for creative writers, world-builders, and Game Masters with lore consistency guard, dynamic faction matrix, and what-if simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
